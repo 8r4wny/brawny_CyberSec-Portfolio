@@ -1,11 +1,11 @@
 <h1>Hi, I'm Mozafar <br/>Programmer, Entry cybersecurity</h1>
 
 <h2> 👨‍💻 Cybersecurity Projects:</h2>
-<h3>Title: Conduct a Security Audit</h3>
-Platform: Google Cybersecurity Professional Certificate
-Date: [2025/12/12]
+<h4>Title: Conduct a Security Audit</h4>
+<h4>Platform: Google Cybersecurity Professional Certificate</h4>
+<h4>Date: [2025/12/12]</h4>
 
-Description:
+<h6>Description:</h6>
 Performed a hands-on security audit on a sample system to identify potential vulnerabilities, assess risks, and suggest mitigation strategies.
 
 Key Actions:
