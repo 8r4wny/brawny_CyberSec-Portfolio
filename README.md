@@ -3,7 +3,7 @@
 <h2> 👨‍💻 Cybersecurity Projects:</h2>
 <h4>Below is a curated list of hands‑on cybersecurity projects that demonstrate practical skills and applied knowledge.</h4>
 
----
+
 
 ### 📌 Conduct a Security Audit
  A basic security audit of a system/network, documenting vulnerabilities, risks, and findings.  
