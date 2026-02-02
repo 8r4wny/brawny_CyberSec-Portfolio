@@ -1,10 +1,9 @@
 <h1>Hi, I'm Mozafar <br/>Programmer, Entry cybersecurity</h1>
 
 <h2> 👨‍💻 Cybersecurity Projects:</h2>
+
 ### 📌 Conduct a Security Audit
  
-
-
 ### 📌 Home Network Asset Classification
 A classification of devices connected to a home network displayed in an Excel sheet and documented with security context.  
 👉 [View Project](./assets-classification)
