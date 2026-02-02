@@ -17,6 +17,11 @@ Key Actions:
 Supporting Materials:
 [https://docs.google.com/document/d/1WNStxE7yE1DePAEyXM8SOK6A-VBhZhGMgULXBSPVz_k/edit?usp=sharing]
 
+### 📌 Home Network Asset Classification
+A classification of devices connected to a home network displayed in an Excel sheet and documented with security context.  
+👉 [View Project](./assets-classification)
+
+
 <h2> 📄 Certificatoins:</h2>
 
 <h2> 🤳 Connect with me:</h2>
