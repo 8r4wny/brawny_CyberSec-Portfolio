@@ -1,5 +1,5 @@
 # Conduct a Security Audit
-## Platform:## Google Cybersecurity Professional Certificate
+## Platform: Google Cybersecurity Professional Certificate
 ## Date: [2025/12/12]
 ## Description:
 Performed a hands-on security audit on a sample system to identify potential vulnerabilities, assess risks, and suggest mitigation strategies.
