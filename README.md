@@ -19,7 +19,7 @@ A classification of devices connected to a home network displayed in an Excel sh
 
 <h2> 📄 Certificatoins:</h2>
 
---
+---
 
 <h2> 🤳 Connect with me:</h2>
 
