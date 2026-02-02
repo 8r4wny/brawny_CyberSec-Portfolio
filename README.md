@@ -1,7 +1,7 @@
 <h1>Hi, I'm Mozafar <br/>Programmer, Entry cybersecurity</h1>
 
 <h2> 👨‍💻 Cybersecurity Projects:</h2>
-Below is a curated list of hands‑on cybersecurity projects that demonstrate practical skills and applied knowledge.
+<bold>Below is a curated list of hands‑on cybersecurity projects that demonstrate practical skills and applied knowledge.</bold>
 
 ---
 
@@ -10,6 +10,7 @@ Below is a curated list of hands‑on cybersecurity projects that demonstrate pr
 👉 [View Project](./security-audit)
 
 ---
+
 ### 📌 Home Network Asset Classification
 A classification of devices connected to a home network displayed in an Excel sheet and documented with security context.  
 👉 [View Project](./assets-classification)
