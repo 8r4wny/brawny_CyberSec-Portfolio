@@ -1,7 +1,7 @@
 <h1>Hi, I'm Mozafar <br/>Programmer, Entry cybersecurity</h1>
 
 <h2> 👨‍💻 Cybersecurity Projects:</h2>
-<bold>Below is a curated list of hands‑on cybersecurity projects that demonstrate practical skills and applied knowledge.</bold>
+**Below is a curated list of hands‑on cybersecurity projects that demonstrate practical skills and applied knowledge.**
 
 ---
 
