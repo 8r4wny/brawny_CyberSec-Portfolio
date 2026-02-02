@@ -3,7 +3,9 @@
 <h2> 👨‍💻 Cybersecurity Projects:</h2>
 
 ### 📌 Conduct a Security Audit
- 
+ A basic security audit of a system/network, documenting vulnerabilities, risks, and findings.  
+👉 [View Project](./security-audit)
+
 ### 📌 Home Network Asset Classification
 A classification of devices connected to a home network displayed in an Excel sheet and documented with security context.  
 👉 [View Project](./assets-classification)
